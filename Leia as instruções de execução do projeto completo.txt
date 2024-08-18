@@ -1,0 +1,12 @@
+
+Instruções de execução do projeto Estacionamento
+
+------------
+
+Ao importar o projeto completo para seu ambiente de desenvolvimento, atente para os seguintes itens:
+
+- Verifique a biblioteca referente ao driver jdbc do mysql importada no projeto (provavelmente será necessário refazer o link com o arquivo físico do driver)
+- Verifique no arquivo de propriedades os dados referentes ao acesso ao banco de dados instalado (de acordo com sua instalação local)
+- No banco de dados instalado em seu próprio ambiente, crie previamente as tabelas usadas na aplicação (mySQLadmin)
+
+-------------
